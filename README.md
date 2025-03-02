@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **LifeJobscope**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Arduino, IoT, and Software Development**
 
 - 📫 How to reach me **kuvindumanaruwan@gmail.com**
 
