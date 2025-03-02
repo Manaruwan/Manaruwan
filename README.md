@@ -2,7 +2,7 @@
 <h3 align="center">"Uvindu Manaruwan | "Exploring embedded systems & software | Arduino, IoT, and beyond! 🔥 | YouTuber 🎥 | Sri Lanka 🇱🇰"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="manaruwan" /> </p>
-
+---
 - 🔭 I’m currently working on **LifeJobscope**
 
 - 🌱 I’m currently learning **React**
@@ -14,7 +14,7 @@
 - 📫 How to reach me **kuvindumanaruwan@gmail.com**
 
 - ⚡ Fun fact **Call me as Uvindu Manaruwan**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/uvindu-manaruwan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/uvindu-manaruwan-" height="30" width="40" /></a>
